@@ -1,9 +1,8 @@
 ------------------------------------Instructions to run Crawler.py--------------------------------
 
 Author: Kunal Bohra
-CS 6200
 email:bohra.k@husky.neu.edu
-NUID:001971024
+License: MIT 
 
 
 Requirements:
